@@ -1,2 +1,2 @@
 # SIH
-stylish search-file, useses brave.com to search, only style is else
+stylish search-file (Hackerstyle!), useses brave.com to search, only style is else
